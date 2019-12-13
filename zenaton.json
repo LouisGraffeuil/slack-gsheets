@@ -8,11 +8,11 @@
     "input": ["general"],
     "events": [
       {
-        "name": "where_to_lunch_event",
+        "name": "",
         "data": [
           {
-            "deal_name": "awesome cheese cake",
-            "email": "friend_1@example.com"
+            "deal_name": "",
+            "email": ""
           }
         ]
       }
