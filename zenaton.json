@@ -6,16 +6,6 @@
   "connectors": ["slack", "google_sheets", "cronofy"],
   "onlineEditor": {
     "input": ["general"],
-    "events": [
-      {
-        "name": "",
-        "data": [
-          {
-            "deal_name": "",
-            "email": ""
-          }
-        ]
-      }
-    ]
+    "events": []
   }
 }
